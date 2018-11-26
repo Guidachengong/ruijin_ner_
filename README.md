@@ -1,3 +1,5 @@
+## 项目介绍
+* 该项目是天池瑞金医院知识抽取竞赛中实体识别部分的代码，模型为BiLSTM-GRU-CRF，竞赛[网址](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.3bea33af6U381n&raceId=231687)
 
 ## 主要package版本号
 
