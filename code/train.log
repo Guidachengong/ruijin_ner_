@@ -1,0 +1,9 @@
+2018-11-13 11:32:14,770 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 11:36:25,157 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 11:37:45,226 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 11:39:02,389 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 11:39:55,841 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 12:33:14,248 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 12:40:40,214 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 12:41:07,851 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
+2018-11-13 12:45:14,943 - train.log - INFO - Reading model parameters from ../data/ckpt_best/ner_best.ckpt
