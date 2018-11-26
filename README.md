@@ -20,4 +20,10 @@
 
 data文件夹下除了数据，还有模型文件保存至ckpt_best，日志文件夹为log，验证集结果文件夹result.
 
+## reference:
+
+* [https://github.com/kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER)
+
+* [https://github.com/zjy-ucas/ChineseNER](https://github.com/zjy-ucas/ChineseNER)
+
 
